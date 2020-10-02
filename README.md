@@ -1,0 +1,1 @@
+# slider-post-type
